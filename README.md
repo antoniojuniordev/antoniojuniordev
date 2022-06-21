@@ -1,4 +1,4 @@
-## Olá, eu sou o Antonio Junior, desenvolvedor frontend/fazedor de CRUD!
+## Olá, eu sou o Antonio Junior, desenvolvedor de soluções frontend
 
 Sou desenvolvedor de software com mais de 5 anos de experiência na construção de soluções empresariais com foco em usabilidade, experiência do usuário e cliente.
 
