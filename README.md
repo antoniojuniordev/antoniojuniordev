@@ -1,9 +1,10 @@
 ## Olá, eu sou o Antonio Junior, desenvolvedor frontend/fazedor de CRUD!
 
-- 🔭 Atualmente trabalho com angular
-- 🌱 Estou voltando a estudar mais a fundo react
-- 💬 Tenho um boa experiencia com react e angular
-- ⚡ Na área de desenvolvimento de software aprendi de tudo de um pouco e hoje estou me especializando no frontend
+Sou desenvolvedor de software com mais de 5 anos de experiência na construção de soluções empresariais com foco em usabilidade, experiência do usuário e cliente.
+
+Já tive participação em projetos com uma amplitude de mais de 1 milhão de requests dia onde foi necessário planejar toda uma arquitetura de projeto para suportar escalar e com múltiplos desenvolvedores atuando com poucos conflitos.
+
+🌎 No meu website escrevo artigos sobre desenvolvimento e outras áreas afins: https://antoniojunior.dev.
 
 <div align="center">
   <a href="https://github.com/antoniojuniordev">
