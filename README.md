@@ -1,13 +1,16 @@
 ## Olá, eu sou o Antonio Junior, desenvolvedor de soluções frontend
-Olá! Sou Antonio Junior, desenvolvedor frontend com mais de 5 anos de experiência em tecnologia, especializado em construir soluções escaláveis, focadas em usabilidade e experiência do usuário.
+Olá! Sou Antonio Junior, desenvolvedor full stack com mais de 7 anos de experiência em tecnologia, especializado em construir soluções escaláveis, focadas em usabilidade e experiência do usuário.
 
 Atuei em projetos de alta performance, lidando com arquiteturas que suportam mais de 1 milhão de requisições diárias, trabalhando em times de múltiplos desenvolvedores com práticas que reduzem conflitos e aceleram a entrega de valor. Tenho forte preocupação com a qualidade do código, escalabilidade e colaboração entre equipes. Sempre em busca constantemente de evoluir minhas habilidades.
 
+Embora tenha experiência no desenvolvimento de soluções backend e devops, meu principal interesse e especialidade estão no frontend e mobile, onde busco sempre entregar produtos com excelência em usabilidade, performance e design.
+
 Principais habilidades:
-- Desenvolvimento frontend (React, Next.js, etc.)
+- Desenvolvimento frontend (React, Next.js, TypeScript entre outras.)
+- Conhecimentos full stack (Node.js, APIs REST, banco de dados)
 - Arquitetura de sistemas escaláveis
 - Otimização de performance e UX
-- Trabalho em equipe e metodologias ágeis
+- Colaboração em equipes ágeis (Scrum/Kanban)
 
 <div align="center">
   <a href="https://github.com/antoniojuniordev">
